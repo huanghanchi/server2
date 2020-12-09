@@ -1,0 +1,13 @@
+/usr/local/lib/python3.6/site-packages/ipykernel_launcher.py -f /root/.local/share/jupyter/runtime/kernel-f008887c-0f3f-4cf2-a592-2246c93581a0.json
+
+<__main__.parser object at 0x7eff77c17278>
+
+Config hash: bfb10a595f
+
+Device: cuda
+
+Environments loaded
+
+Training status loaded
+
+Observations preprocessor loaded

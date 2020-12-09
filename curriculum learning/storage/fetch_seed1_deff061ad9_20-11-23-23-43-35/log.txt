@@ -1,0 +1,8 @@
+/root/server/Semantic-Loss/complex_constraints/curriculum learning/fetch.py
+
+<__main__.parser object at 0x7f43b5b36828>
+
+Config hash: deff061ad9
+
+Device: cuda
+

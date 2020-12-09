@@ -1,0 +1,123 @@
+/usr/local/lib/python3.6/site-packages/ipykernel_launcher.py -f /root/.local/share/jupyter/runtime/kernel-2956e5d4-30c2-4474-9f3d-9442e6e0976e.json
+
+<__main__.parser object at 0x7fc180a2a0b8>
+
+Config hash: bfb10a595f
+
+Device: cuda
+
+/usr/local/lib/python3.6/site-packages/ipykernel_launcher.py -f /root/.local/share/jupyter/runtime/kernel-2956e5d4-30c2-4474-9f3d-9442e6e0976e.json
+
+<__main__.parser object at 0x7fc1804d8e10>
+
+Config hash: 6714c5d5a2
+
+Device: cuda
+
+Environments loaded
+
+Training status loaded
+
+Observations preprocessor loaded
+Model loaded
+
+ACModel(
+  (image_conv): Sequential(
+    (0): Conv2d(3, 16, kernel_size=(2, 2), stride=(1, 1))
+    (1): ReLU()
+    (2): AvgPool2d(kernel_size=(2, 2), stride=2, padding=0)
+    (3): Conv2d(16, 32, kernel_size=(2, 2), stride=(1, 1))
+    (4): ReLU()
+    (5): Conv2d(32, 16, kernel_size=(2, 2), stride=(1, 1))
+    (6): ReLU()
+  )
+  (actor): Sequential(
+    (0): Linear(in_features=16, out_features=64, bias=True)
+    (1): Tanh()
+    (2): Linear(in_features=64, out_features=7, bias=True)
+  )
+  (critic): Sequential(
+    (0): Linear(in_features=16, out_features=64, bias=True)
+    (1): Tanh()
+    (2): Linear(in_features=64, out_features=1, bias=True)
+  )
+)
+
+Optimizer loaded
+
+/usr/local/lib/python3.6/site-packages/ipykernel_launcher.py -f /root/.local/share/jupyter/runtime/kernel-2956e5d4-30c2-4474-9f3d-9442e6e0976e.json
+
+<__main__.parser object at 0x7fc1804d8e10>
+
+Config hash: 6714c5d5a2
+
+Device: cuda
+
+Environments loaded
+
+Training status loaded
+
+Observations preprocessor loaded
+Model loaded
+
+ACModel(
+  (image_conv): Sequential(
+    (0): Conv2d(3, 16, kernel_size=(2, 2), stride=(1, 1))
+    (1): ReLU()
+    (2): AvgPool2d(kernel_size=(2, 2), stride=2, padding=0)
+    (3): Conv2d(16, 32, kernel_size=(2, 2), stride=(1, 1))
+    (4): ReLU()
+    (5): Conv2d(32, 16, kernel_size=(2, 2), stride=(1, 1))
+    (6): ReLU()
+  )
+  (actor): Sequential(
+    (0): Linear(in_features=16, out_features=64, bias=True)
+    (1): Tanh()
+    (2): Linear(in_features=64, out_features=7, bias=True)
+  )
+  (critic): Sequential(
+    (0): Linear(in_features=16, out_features=64, bias=True)
+    (1): Tanh()
+    (2): Linear(in_features=64, out_features=1, bias=True)
+  )
+)
+
+Optimizer loaded
+
+/usr/local/lib/python3.6/site-packages/ipykernel_launcher.py -f /root/.local/share/jupyter/runtime/kernel-2956e5d4-30c2-4474-9f3d-9442e6e0976e.json
+
+<__main__.parser object at 0x7fc1804d8e10>
+
+Config hash: 6714c5d5a2
+
+Device: cuda
+
+Environments loaded
+
+Training status loaded
+
+Observations preprocessor loaded
+Model loaded
+
+ACModel(
+  (image_conv): Sequential(
+    (0): Conv2d(3, 16, kernel_size=(2, 2), stride=(1, 1))
+    (1): ReLU()
+    (2): AvgPool2d(kernel_size=(2, 2), stride=2, padding=0)
+    (3): Conv2d(16, 32, kernel_size=(2, 2), stride=(1, 1))
+    (4): ReLU()
+    (5): Conv2d(32, 16, kernel_size=(2, 2), stride=(1, 1))
+    (6): ReLU()
+  )
+  (actor): Sequential(
+    (0): Linear(in_features=16, out_features=64, bias=True)
+    (1): Tanh()
+    (2): Linear(in_features=64, out_features=7, bias=True)
+  )
+  (critic): Sequential(
+    (0): Linear(in_features=16, out_features=64, bias=True)
+    (1): Tanh()
+    (2): Linear(in_features=64, out_features=1, bias=True)
+  )
+)
+

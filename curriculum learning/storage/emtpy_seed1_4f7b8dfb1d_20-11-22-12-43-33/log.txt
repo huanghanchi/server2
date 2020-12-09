@@ -1,0 +1,8 @@
+/usr/local/lib/python3.6/site-packages/ipykernel_launcher.py -f /root/.local/share/jupyter/runtime/kernel-131c83c7-6b44-4a2f-bf1b-32af8136639a.json
+
+<__main__.parser object at 0x7fb5fc7b3160>
+
+Config hash: 4f7b8dfb1d
+
+Device: cpu
+

@@ -1,0 +1,22 @@
+/usr/local/lib/python3.6/site-packages/ipykernel_launcher.py -f /root/.local/share/jupyter/runtime/kernel-267ae7e1-be44-44b6-93a9-80e7965cfbb6.json
+
+<__main__.parser object at 0x7f42e23b6278>
+
+Config hash: bfb10a595f
+
+Device: cuda
+
+Training status loaded
+
+Observations preprocessor loaded
+/usr/local/lib/python3.6/site-packages/ipykernel_launcher.py -f /root/.local/share/jupyter/runtime/kernel-267ae7e1-be44-44b6-93a9-80e7965cfbb6.json
+
+<__main__.parser object at 0x7f42e0330e10>
+
+Config hash: bfb10a595f
+
+Device: cuda
+
+Training status loaded
+
+Observations preprocessor loaded
